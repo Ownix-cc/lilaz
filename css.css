@@ -1,0 +1,45 @@
+body {
+  background-color: #1a1919;
+  width: 600px;
+  margin: auto;
+  background-image: url(https://i.pinimg.com/originals/91/95/f4/9195f4dd1b69f90038f627c8af422429.gif);
+  background-size: 100%;
+}
+
+.hh {
+  text-align: center;
+  font-style: italic;
+  color: white;
+  font-size: 16px;
+  text-shadow: 2px 2px #4a4949;
+}
+.bo {
+  border: solid 1px white;
+  width: 600px;
+  margin-left: auto;
+  margin-right: auto;
+  height: 600px;
+  border-radius: 5px;
+  background-image: url(https://media.tenor.com/images/c17d6fdb2577684c41cede38b42c4a7d/tenor.gif);
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.az {
+  margin-left: auto;
+  margin-right: auto;
+  width: 60px;
+  height: 60px;
+}
+.ax2 {
+  color: white;
+  text-shadow: 2px 2px #4a4949;
+}
+.ax2 p a {
+  color: grey;
+  text-decoration: none;
+}
+.ga {
+  border-bottom-style: dotted;
+  border-width: 5px;
+  border-color: white;
+}
